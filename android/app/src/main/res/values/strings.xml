@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CapacitorApp</string>
+    <string name="title_activity_main">CapacitorApp</string>
+    <string name="package_name">com.savepong.ionic.capacitor.test</string>
+    <string name="fileprovider_authority">com.savepong.ionic.capacitor.test.fileprovider</string>
+    <string name="custom_url_scheme">com.savepong.ionic.capacitor.test</string>
+</resources>

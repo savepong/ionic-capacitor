@@ -1,0 +1,6 @@
+{
+  "appId": "com.savepong.ionic.capacitor.test",
+  "appName": "CapacitorApp",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
